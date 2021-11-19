@@ -1,1 +1,2 @@
 # projecteuler
+### SOLUTIONS FOR PROJECT EULER HACKERRANK
